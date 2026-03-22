@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	452547817	STOP_ALL			\Default Work Unit\STOP_ALL	
+

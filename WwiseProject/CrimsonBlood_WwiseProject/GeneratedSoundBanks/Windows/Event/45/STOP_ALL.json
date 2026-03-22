@@ -1,0 +1,33 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "452547817",
+    "Type": "Event",
+    "GUID": "{39858B88-B192-44AD-8B29-178AC1C1F77F}",
+    "Language": "SFX",
+    "Hash": "{0052E2B1-7436-FD3B-7CD6-9FACC8910294}",
+    "ObjectPath": "STOP_ALL",
+    "ShortName": "STOP_ALL",
+    "Path": "Event/45/STOP_ALL.bnk",
+    "Events": [
+     {
+      "Id": "452547817",
+      "Name": "STOP_ALL",
+      "ObjectPath": "\\Events\\Default Work Unit\\STOP_ALL",
+      "GUID": "{39858B88-B192-44AD-8B29-178AC1C1F77F}",
+      "MaxAttenuation": "0",
+      "DurationType": "OneShot",
+      "DurationMin": "0",
+      "DurationMax": "0"
+     }
+    ]
+   }
+  ],
+  "FileHash": "{B85A61BD-F0A4-4FEC-E067-6BE947133542}"
+ }
+}

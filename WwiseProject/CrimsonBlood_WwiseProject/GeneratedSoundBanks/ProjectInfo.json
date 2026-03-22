@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "CrimsonBlood_WwiseProject",
+   "GUID": "{E2A575AF-7BFD-4FE4-A26C-FC6FEC5ADE45}",
+   "Generator": "2025.1.6.9117"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{0BFCFE78-7D20-4EDE-AAE2-0A247A6BCA60}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{6732BBDE-3151-449B-A66E-DBD6E5E3B602}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{E9EC5BC9-BD0F-7AC2-6C31-B36CA30147C9}"
+ }
+}
