@@ -1,1 +1,6 @@
-2026/03/20-23:21:52.702 13794 Reusing MANIFEST D:\Game Projects\VampireGame\ForbiddenBloodRepo\TempForbiddenBlood\CrimsonBlood\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/24-21:07:01.126 6dc8 Log #6: 2 ops saved to Table #7 OK
+2026/03/24-21:07:01.131 6dc8 Archiving D:\Kemono\Github\TempForbiddenBlood\ForbiddenBlood\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/03/24-21:07:01.132 6dc8 Table #4: 1 entries OK
+2026/03/24-21:07:01.132 6dc8 Table #7: 2 entries OK
+2026/03/24-21:07:01.140 6dc8 Archiving D:\Kemono\Github\TempForbiddenBlood\ForbiddenBlood\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/24-21:07:01.152 6dc8 **** Repaired leveldb D:\Kemono\Github\TempForbiddenBlood\ForbiddenBlood\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 308 bytes. Some data may have been lost. ****

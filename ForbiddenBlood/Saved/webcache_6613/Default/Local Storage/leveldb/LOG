@@ -1,3 +1,2 @@
-2026/03/20-23:23:34.667 132b0 Reusing MANIFEST D:\Game Projects\VampireGame\ForbiddenBloodRepo\TempForbiddenBlood\CrimsonBlood\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/20-23:23:34.671 132b0 Recovering log #3
-2026/03/20-23:23:34.672 132b0 Reusing old log D:\Game Projects\VampireGame\ForbiddenBloodRepo\TempForbiddenBlood\CrimsonBlood\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/24-21:07:01.172 2c94 Creating DB D:\Kemono\Github\TempForbiddenBlood\ForbiddenBlood\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/03/24-21:07:01.205 2c94 Reusing MANIFEST D:\Kemono\Github\TempForbiddenBlood\ForbiddenBlood\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
